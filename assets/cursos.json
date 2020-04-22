@@ -9,7 +9,7 @@
             "title": "Curso de BootStrap",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-bootstrap.png",
+            "cover": "./images/covers/curso-de-bootstrap.png",
             "src": "https://devcode.la/cursos/bootstrap3/",
             "id": 1
           },
@@ -17,7 +17,7 @@
             "title": "Curso de Angular",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-angular.jpg",
+            "cover": "./images/covers/curso-de-angular.jpg",
             "src": "https://devcode.la/cursos/angular-redux/",
             "id": 2
           },
@@ -25,7 +25,7 @@
             "title": "Qué es Bitcoin",
             "author": "Yograterol",
             "type": "imagen",
-            "cover": "./assets/covers/bitcoin.jpg",
+            "cover": "./images/covers/bitcoin.jpg",
             "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
             "id": 3
           },
@@ -33,7 +33,7 @@
             "title": "Curso de Html5",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-html.jpg",
+            "cover": "./images/covers/curso-de-html.jpg",
             "src": "https://devcode.la/cursos/html-css/",
             "id": 4
           },
@@ -41,7 +41,7 @@
             "title": "Curso de Photoshop",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-diseno-web.png",
+            "cover": "./images/covers/curso-diseno-web.png",
             "src": "https://devcode.la/cursos/diseno-web/",
             "id": 5
           }
@@ -56,7 +56,7 @@
             "title": "Base de datos",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/base-de-datos.jpg",
+            "cover": "./images/covers/base-de-datos.jpg",
             "src": "https://devcode.la/cursos/base-de-datos/",
             "id": 1
           },
@@ -64,7 +64,7 @@
             "title": "Crear una pagina web",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/crear-una-pagina-web.jpg",
+            "cover": "./images/covers/crear-una-pagina-web.jpg",
             "src": "https://devcode.la/cursos/como-crear-una-pagina-web/",
             "id": 5
           },
@@ -72,7 +72,7 @@
             "title": "Curso de Css3",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-css3.jpg",
+            "cover": "./images/covers/curso-de-css3.jpg",
             "src": "https://devcode.la/cursos/css3/",
             "id": 2
           },
@@ -80,7 +80,7 @@
             "title": "Curso de Html5",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-html.jpg",
+            "cover": "./images/covers/curso-de-html.jpg",
             "src": "https://devcode.la/cursos/html-css/",
             "id": 4
           },
@@ -88,7 +88,7 @@
             "title": "Curso de NodeJs",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-nodejs.jpg",
+            "cover": "./images/covers/curso-de-nodejs.jpg",
             "src": "https://devcode.la/cursos/nodejs/",
             "id": 3
           },
@@ -96,7 +96,7 @@
             "title": "Curso de Javascript",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/javascript.jpg",
+            "cover": "./images/covers/javascript.jpg",
             "src": "https://devcode.la/cursos/javascript/",
             "id": 6
           },
@@ -104,7 +104,7 @@
             "title": "Curso de BootStrap",
             "author": "DevCode",
             "type": "imagen",
-            "cover": "./assets/covers/curso-de-bootstrap.png",
+            "cover": "./images/covers/curso-de-bootstrap.png",
             "src": "https://devcode.la/cursos/bootstrap3/",
             "id": 7
           }
